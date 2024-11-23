@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "119015407728",
+    "project_id": "hypertension-726cd",
+    "storage_bucket": "hypertension-726cd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:119015407728:android:6fc73e8898cb62143174b5",
+        "android_client_info": {
+          "package_name": "com.hypertensionapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBrFXEuxiN-bq3x9gLIbqVrregAe8DAtiI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
